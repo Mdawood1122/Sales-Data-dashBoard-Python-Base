@@ -1,4 +1,4 @@
-# Sales Data Dashboard
+# Sales-Data-dashBoard-Python-Base
 
 A Python project where I analyzed and visualized sales data using pandas and matplotlib.
 
