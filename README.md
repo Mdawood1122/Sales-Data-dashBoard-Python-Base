@@ -30,7 +30,7 @@ Just open the notebook in Google Colab and run all cells. It generates the datas
 
 ## Files
 
-- `sales_dashboard.ipynb` — the main notebook
+- `Sales-Data-DashBoard-Python-Base.ipynb` — the main notebook
 - `sales_data.csv` — gets created when you run the notebook
 - `sales_summary.csv` — summary exported at the end
 
